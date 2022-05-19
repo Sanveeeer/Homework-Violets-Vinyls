@@ -11,6 +11,8 @@ p {
 
 h3 {
     color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Verdana, sans-serif; 
 }
 
 a:link {
